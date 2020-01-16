@@ -1,7 +1,7 @@
 name: sj_test
 description: A new flutter plugin project.
-version: 0.0.2
-homepage: https://github.com/9JX
+version: 0.0.3
+homepage: https://github.com/9JX/sj_test
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
